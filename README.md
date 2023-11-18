@@ -11,6 +11,7 @@ or in jupyter notebook's cell you can type
 2. you can download the image file from below link:
      for style image -> 'https://drive.google.com/file/d/1tR9fc6IwfKp0pPwG1U718mjdnsaNcUxo/view?usp=sharing'
      for content image -> 'https://drive.google.com/file/d/1SdXVdQlXss2i3GixuCkxeTcyo9ZoW-b1/view?usp=sharing'
+3. In image loading section (cell 25)  give the path of the image where image is located
 
 Rest code will run with no issue
 
